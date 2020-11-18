@@ -14,4 +14,4 @@ beta-reduced.
 
 # Syntax
 [If you are not familiar with the lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus).
-The syntax is as you would expect except for "λ" becomes "\".
+The syntax is as you would expect except for "λ" becomes "\\".
